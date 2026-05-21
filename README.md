@@ -1,3 +1,7 @@
+## Why HistoPanoptic
+
+Commercial digital pathology tools (HALO, Visiopharm, Definiens) cost $30k–$100k+ per seat per year, putting them out of reach for many academic labs and smaller biotech teams. HistoPanoptic is an open-source alternative built on modern transformer-based foundation models, designed to be reproducible, extensible, and accessible to anyone with a Colab account.
+
 # HistoPanoptic
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DrStrange98-Biomed/Histopanoptic/blob/main/Histopanotic.ipynb)
@@ -37,13 +41,13 @@ All notebooks run on free Colab GPUs — click the "Open in Colab" badge on any 
 - [ ] **Week 18:** Documentation, benchmarks, writeup
 
 ## Project structure
-histopanoptic/
-├ notebooks/         # Jupyter notebooks (Colab-ready)
-├ src/               # Core Python modules 
-├ data/              # Local data (gitignored)
-├ docs/              # Documentation
-├ papers/            # Paper notes and references
-└ configs/           # Experiment configs
+
+- 📓 **`notebooks/`** — Jupyter notebooks, all Colab-ready with one-click badges
+- 🐍 **`src/`** — Core Python modules 
+- 📊 **`data/`** — Local datasets 
+- 📖 **`docs/`** — Project documentation and learning notes
+- 📚 **`papers/`** — Reference papers and reading notes
+- ⚙️ **`configs/`** — Experiment configurations 
 
 ## License
 
