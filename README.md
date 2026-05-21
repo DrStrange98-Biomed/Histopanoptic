@@ -38,12 +38,12 @@ All notebooks run on free Colab GPUs — click the "Open in Colab" badge on any 
 
 ## Project structure
 histopanoptic/
-├── notebooks/         # Jupyter notebooks (Colab-ready)
-├── src/               # Core Python modules (added in Week 4+)
-├── data/              # Local data (gitignored)
-├── docs/              # Documentation
-├── papers/            # Paper notes and references
-└── configs/           # Experiment configs (added in Week 4+)
+├ notebooks/         # Jupyter notebooks (Colab-ready)
+├ src/               # Core Python modules 
+├ data/              # Local data (gitignored)
+├ docs/              # Documentation
+├ papers/            # Paper notes and references
+└ configs/           # Experiment configs
 
 ## License
 
