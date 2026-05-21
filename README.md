@@ -51,7 +51,7 @@ MIT — see [LICENSE](LICENSE)
 
 ## Acknowledgments
 
-This project will use models and datasets from:
+This project uses models and datasets from:
 - UNI, Virchow, CellViT (foundation models for pathology)
 - BCSS, PanNuke, NuCLS, PatchCamelyon (public datasets)
 - HuggingFace, Weights & Biases, Google Colab (infrastructure)
